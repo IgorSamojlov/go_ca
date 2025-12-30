@@ -1,0 +1,338 @@
+---
+- id: 2
+  code: '4'
+  code_order: "      000004      "
+  title: 5-е городское начальное женское училище
+  number_of_arch_files: 24
+  start_year: 1885
+  end_year: 1916
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 3
+  code: '5'
+  code_order: "      000005      "
+  title: Департамент шоссейных и грунтовых дорог Всевеликого войска Донского
+  number_of_arch_files: 83
+  start_year: 1918
+  end_year: 1921
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 4
+  code: '8'
+  code_order: "      000008      "
+  title: Пробст 2-го Южно-Российского евангелическо-лютеранского округа, г. Ростов-на-Дону
+  number_of_arch_files: 123
+  start_year: 1835
+  end_year: 1917
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 5
+  code: '22'
+  code_order: "      000022      "
+  title: Ростовская-на-Дону контора Московского купеческого банка, г. Ростов-на-Дону
+  number_of_arch_files: 6612
+  start_year: 1911
+  end_year: 1919
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 6
+  code: '24'
+  code_order: "      000024      "
+  title: Донецкая окружная землеустроительная комиссия, ст. Каменская
+  number_of_arch_files: 12
+  start_year: 1912
+  end_year: 1916
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 7
+  code: '28'
+  code_order: "      000028      "
+  title: Временная хозяйственно-строительная комиссия по строительству Второго сталелитейного завода Главного управления военной промышленности, ст. Каменской
+  number_of_arch_files: 678
+  start_year: 1911
+  end_year: 1923
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 8
+  code: '31'
+  code_order: "      000031      "
+  title: Новочеркасский городской водопровод Новочеркасской городской управы, г. Новочеркасск
+  number_of_arch_files: 286
+  start_year: 1860
+  end_year: 1922
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 9
+  code: '36'
+  code_order: "      000036      "
+  title: Управление Ростово-Нахичеванской-на-Дону городской стражи Областного инспектора Всевеликого войска Донского, г. Ростов-на-Дону
+  number_of_arch_files: 298
+  start_year: 1918
+  end_year: 1919
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 10
+  code: '47'
+  code_order: "      000047      "
+  title: Таганрогский общегородской совет
+  number_of_arch_files: 44
+  start_year: 1917
+  end_year: 1917
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 11
+  code: '63'
+  code_order: "      000063      "
+  title: Акушерско-фельдшерская школа при городской «Николаевской» больнице, г. Ростов-на-Дону
+  number_of_arch_files: 206
+  start_year: 1908
+  end_year: 1924
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 12
+  code: '69'
+  code_order: "      000069      "
+  title: Совет рабочих и солдатских депутатов г. Таганрога
+  number_of_arch_files: 16
+  start_year: 1917
+  end_year: 1918
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 13
+  code: '72'
+  code_order: "      000072      "
+  title: Общественный раввин, г. Ростова-на-Дону
+  number_of_arch_files: 130
+  start_year: 1854
+  end_year: 1921
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 14
+  code: '87'
+  code_order: "      000087      "
+  title: Личный архив семьи Гюйон-Вернье (в замужестве Лакруа М.-Б.К.), г. Ростов-на-Дону
+  number_of_arch_files: 10
+  start_year: 1706
+  end_year: 1910
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 15
+  code: '102'
+  code_order: "      000102      "
+  title: Ростовское уездное общее присутствие, г. Ростов-на-Дону
+  number_of_arch_files: 2
+  start_year: 1863
+  end_year: 1863
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 16
+  code: '103'
+  code_order: "      000103      "
+  title: Ростовская-на-Дону уездная дворянская опека Министерства юстиции, г. Ростов-на-Дону
+  number_of_arch_files: 253
+  start_year: 1824
+  end_year: 1920
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 17
+  code: '104'
+  code_order: "      000104      "
+  title: Ростовское-на-Дону 5-е железнодорожное почтово-телеграфное отделение Ростовского почтово-телеграфного округа, г. Ростов-на-Дону
+  number_of_arch_files: 14
+  start_year: 1913
+  end_year: 1918
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 18
+  code: '106'
+  code_order: "      000106      "
+  title: Диамантиди Константин Дмитриевич, советник коммерции
+  number_of_arch_files: 10
+  start_year: 1899
+  end_year: 1919
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 19
+  code: '108'
+  code_order: "      000108      "
+  title: Судебно-следственная комиссия при штабе главнокомандующего вооруженными силами на Юге России, г. Ростов-на-Дону
+  number_of_arch_files: 16
+  start_year: 1918
+  end_year: 1920
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 20
+  code: '110'
+  code_order: "      000110      "
+  title: Ростовский-на-Дону ломбард им. доктора медицины Ткачева
+  number_of_arch_files: 5
+  start_year: 1916
+  end_year: 1918
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 35
+  code: '240'
+  code_order: "      000240      "
+  title: Личный архив Леонида Васильевича Богаевского гвардии полковника, адъютанта войскового наказного атамана, г. Новочеркасск
+  number_of_arch_files: 3
+  start_year: 1904
+  end_year: 1904
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 36
+  code: '248'
+  code_order: "      000248      "
+  title: Ростовское-на-Дону реальное училище, учрежденное М. В. Папковым Харьковского учебного округа Министерства народного просвещения, г. Ростов-на-Дону
+  number_of_arch_files: 57
+  start_year: 1906
+  end_year: 1920
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 4293
+  code: Т-1000
+  code_order: 'т     001000      '
+  title: Терминатор т1000
+  number_of_arch_files:
+  start_year:
+  end_year:
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-09-10T03:34:25Z'
+  updated_at: '2025-09-10T03:34:25Z'
+
+- id: 21
+  code: '111'
+  code_order: "      000111      "
+  title: Персиановский расходный продовольственный магазин Окружного интенданта Черкасского округа Всевеликого войска Донского, ст. Персиановка
+  number_of_arch_files: 4
+  start_year: 1918
+  end_year: 1918
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 22
+  code: '114'
+  code_order: "      000114      "
+  title: Ростовское-на-Дону первое смешанное городское двухклассное училище, г. Ростов-на-Дону
+  number_of_arch_files: 11
+  start_year: 1913
+  end_year: 1919
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 23
+  code: '120'
+  code_order: "      000120      "
+  title: Отдел торговли и промышленности правительства Всевеликого войска Донского, г. Новочеркасск
+  number_of_arch_files: 4
+  start_year: 1919
+  end_year: 1919
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'
+
+- id: 24
+  code: '124'
+  code_order: "      000124      "
+  title: Инспекция по страховым операциям Ростовского района Управления государственными сберкассами, г. Ростов-на-Дону
+  number_of_arch_files: 7
+  start_year: 1917
+  end_year: 1919
+  archive_id: 1
+  fund_type: 1
+  dsp: false
+  created_at: '2025-08-29T21:18:45Z'
+  updated_at: '2025-08-29T21:18:45Z'

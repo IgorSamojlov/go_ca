@@ -1,0 +1,10 @@
+all: true
+dir: '{{ .InterfaceDir }}/mocks'
+structname: '{{.InterfaceName}}Mock'
+filename: '{{.InterfaceName | snakecase }}_mock.go'
+pkgname: '{{ .SrcPackageName }}_mock'
+template: testify
+template-data:
+  unroll-variadic: true
+packages:
+  ca/internal/handler/catalog/funds: {}
